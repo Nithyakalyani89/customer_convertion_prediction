@@ -25,7 +25,7 @@ For this project, I utilized Google Colab as my integrated development environme
   I used Linear regression,xgboost and Random Forest.
   I can see that Dur(Duration) is most important feature in dataset.
 # Model Evaluation
-We are going to comapre auroc curve.
+We are going to compare auroc curve.
 # Conclusion
 Based on the results obtained from the evaluation of the three classification models (Logistic Regression, XGBoost, and Decision Tree Classifier) on the given historical data, XGBoost outperformed the other models with the highest accuracy score of 93.54% and the highest AUROC score of 0.986.
 This implies that XGBoost is a suitable model for predicting whether a client will subscribe to the insurance or not. It is recommended to deploy this model in the production environment to accurately target potential customers and optimize marketing costs.
