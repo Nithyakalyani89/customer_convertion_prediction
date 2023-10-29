@@ -22,7 +22,7 @@ For this project, I utilized Google Colab as my integrated development environme
 # Scalling
   I used StandardScaler.
 # Models
-  I used Linear regression,xgboost and Random Forest.
+  I used Logistic regression,xgboost and Random Forest.
   I can see that Dur(Duration) is most important feature in dataset.
 # Model Evaluation
 We are going to compare auroc curve.
